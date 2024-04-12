@@ -1,0 +1,27 @@
+/* Navigation */
+.navbar-collapse .navbar-nav .nav-item a:hover {
+    color: #f89f04;
+}
+
+.cart-item {
+    margin-bottom: 1rem;
+}
+
+/* Banner */
+.banner-image {
+    background: url('img/banner.webp') no-repeat center center / cover;
+    min-height:100px;
+}
+
+/* Feature Products Card */
+.card-title a {
+    color: #333; 
+    text-decoration: none; 
+}
+
+/* Media queries for responsive adjustments */
+@media (max-width: 768px) {
+    .banner-image {
+        min-height: 300px; /* Adjust banner image for smaller devices */
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "package_name": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "pandiyanpot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
